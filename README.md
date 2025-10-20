@@ -4,8 +4,8 @@
 
 [![Follow on GitHub](https://img.shields.io/github/followers/senatorjossy-creator?label=Follow&style=social)](https://github.com/senatorjossy-creator)
 [![GitHub](https://img.shields.io/badge/GitHub-senatorjossy--creator-181717?style=flat&logo=github)](https://github.com/senatorjossy-creator)
-[![Website](https://img.shields.io/badge/Website-YourSite-blue?style=flat&logo=google-chrome)](https://your.site)
-[![Email](https://img.shields.io/badge/Email-you%40email.com-c14438?style=flat&logo=gmail)](mailto:you@email.com)
+[![Website](https://img.shields.io/badge/Website-YourSite-blue?style=flat&logo=google-chrome)](https://t,me@Lhord_XBot)
+[![Email](https://img.shields.io/badge/Email-you%40email.com-c14438?style=flat&logo=gmail)](mailto:senatorjossy@email.com)
 
 ---
 
