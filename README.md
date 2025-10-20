@@ -75,7 +75,7 @@ Ways to reach me
 
 - Portfolio / Website: https://your.site
 - Email: senatorjossy@email.com
-- LinkedIn: https://linkedin.com/in/yourprofile
+- Telegram:/https://t.me/Lhord_XB12.com
 - Twitter/X: https://twitter.com/yourhandle
 
 Let's collaborate
@@ -98,3 +98,39 @@ This README layout is inspired by many awesome developer profiles and aims to be
 ---
 
 Want a tailored README? I can personalize this file to highlight your best projects, add live badges, custom project cards, or a professional summary. Provide the details below and I’ll update this README for you.
+# This is a basic workflow to help you get started with Actions
+
+name: Lord X
+
+# Controls when the workflow will run
+on: android and ios
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
