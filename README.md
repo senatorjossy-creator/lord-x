@@ -26,7 +26,17 @@ Core tech & tools
 -----------------
 
 - Languages: JavaScript / TypeScript • Python • Go • [ENGLISH]
-- Frameworks & libs: React • Node.js • Express • FastAPI • [your frameworks]
+- Frameworks & libs: React • Node.js • Express • FastAPI • from flask import Flask, render_template
+
+app = Flask(__Lord X mods__)
+
+@app.route("/")
+def home():
+    return render_template("index.html")
+
+if __name__ == "__main__":
+    app.run(debug=True)
+
 - DevOps & infra: Docker • Kubernetes • GitHub Actions • AWS / GCP
 - Datastores: PostgreSQL • Redis • MongoDB
 - Testing & quality: Jest • Pytest • ESLint • Prettier
