@@ -1,4 +1,4 @@
-# Hi — I'm [Your Name] 👋 (senatorjossy-creator)
+# Hi — I'm [Senator also known as lord X] 👋 (senatorjossy-creator)
 
 > Short tagline: Building delightful software, one commit at a time.
 
@@ -25,7 +25,7 @@ What I do
 Core tech & tools
 -----------------
 
-- Languages: JavaScript / TypeScript • Python • Go • [your languages]
+- Languages: JavaScript / TypeScript • Python • Go • [ENGLISH]
 - Frameworks & libs: React • Node.js • Express • FastAPI • [your frameworks]
 - DevOps & infra: Docker • Kubernetes • GitHub Actions • AWS / GCP
 - Datastores: PostgreSQL • Redis • MongoDB
@@ -74,7 +74,7 @@ Ways to reach me
 ----------------
 
 - Portfolio / Website: https://your.site
-- Email: you@email.com
+- Email: senatorjossy@email.com
 - LinkedIn: https://linkedin.com/in/yourprofile
 - Twitter/X: https://twitter.com/yourhandle
 
@@ -87,8 +87,8 @@ Misc
 ----
 
 - 🔭 Currently working on: [project-in-progress]
-- 🌱 Learning: [skill or technology you're learning]
-- ⚡ Fun fact: [fun fact about you]
+- 🌱 Learning: [Computer Science web building]
+- ⚡ Fun fact: [Looking forward why things are meant to be so]
 
 Credits & inspiration
 ---------------------
